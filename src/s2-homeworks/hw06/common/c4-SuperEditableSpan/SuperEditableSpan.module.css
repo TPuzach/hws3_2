@@ -1,0 +1,24 @@
+.spanBlock {
+    display: flex;
+    align-items: center;
+}
+
+.span {
+    display: inline-block;
+    padding: 5px 10px;
+    border: 1px solid rgba(11, 185, 11, 0.67);
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.input {
+    padding: 5px 10px;
+    border: 1px solid #a4a363;
+    border-radius: 4px;
+}
+
+.pen {
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+}
